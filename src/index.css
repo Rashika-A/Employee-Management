@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    background-color: #f2f2f2;
+    padding: 30px;
+}
+h1 {
+    text-align: center;
+}
+
+.employee-card {
+    width: 400px;
+    margin: 20pxauto;
+    padding: 20px;
+    background-color: white;
+    border: 2pxsolidblack;
+    border-radius: 10px;
+}
+
+.employee-cardh2 {
+    text-align: center;
+}
+
+.employee-cardp {
+    font-size: 18px;
+}
